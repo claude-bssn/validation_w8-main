@@ -18,7 +18,7 @@ $player2 = new Magician('Vivi');
 </head>
 <body>
     <header>
-        <h1 class='title'>La bataille des Champions </h1>
+        <h1 class='title'>La Baston des Champions </h1>
     </header>
 
     <div class="board">
